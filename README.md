@@ -1,4 +1,4 @@
-// Tugas 1 OOP E-commerce Product Catalog Nasywa Destian Nabilah STI.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tugas 2 OOP E-commerce Product Catalog Nasywa Destian Nabilah STI.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
@@ -70,7 +70,7 @@ int main() {
 }
 
 
-// Tugas OOP University Course System Nasywa Destian Nabilah STI.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tugas 3 OOP University Course System Nasywa Destian Nabilah STI.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
